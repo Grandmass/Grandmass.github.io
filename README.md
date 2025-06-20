@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Welcome to My Page"
-description: "This is my GitHub Pages site"
+title: "Welcome to My Site"
+description: "Personal GitHub Pages site"
 ---
 
-# Hello World!
+# Welcome to my GitHub Pages site
 
-This is my GitHub Pages site using README.md as the entry point.
+This page was automatically generated with Jekyll and SEO support.
 
-The Jekyll SEO plugin will automatically generate meta tags.
+Edit this README.md file to update your content.
