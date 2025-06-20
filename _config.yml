@@ -1,5 +1,6 @@
-title: "My GitHub Page"
-description: "Automatically generated page"
+title: "grandmass's Personal Site"
+description: "GitHub Pages site"
+baseurl: ""
 url: ""
 plugins:
   - jekyll-seo-tag
