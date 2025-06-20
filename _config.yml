@@ -1,0 +1,6 @@
+title: "Grandmass's Site"
+description: "Personal GitHub Pages site"
+url: "https://Grandmass.github.io"
+email: None
+plugins:
+  - jekyll-seo-tag
